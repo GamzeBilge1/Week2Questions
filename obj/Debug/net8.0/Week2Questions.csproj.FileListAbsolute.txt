@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\bin\Debug\net8.0\Week2Questions.exe
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\bin\Debug\net8.0\Week2Questions.deps.json
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\bin\Debug\net8.0\Week2Questions.runtimeconfig.json
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\bin\Debug\net8.0\Week2Questions.dll
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\bin\Debug\net8.0\Week2Questions.pdb
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.sourcelink.json
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.dll
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\refint\Week2Questions.dll
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.pdb
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\Week2Questions.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Week2Questions\Week2Questions\obj\Debug\net8.0\ref\Week2Questions.dll
